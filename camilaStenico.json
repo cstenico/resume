@@ -1,0 +1,151 @@
+{
+    "name": "Camila Stenico",
+    "email": "stenico.camila@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/camila-stenico/",
+    "city": "São Paulo",
+    "education": [
+        {
+            "school": "University of São Paulo",
+            "degree": "Bachelor of Science",
+            "fieldOfStudy": "Computer Science",
+            "startYear": "2017",
+            "endYear": "2019",
+            "description": ""
+        },
+        {
+            "school": "University of São Paulo",
+            "degree": "Bachelor of Science",
+            "fieldOfStudy": "Computer Engineering",
+            "startYear": "2014",
+            "endYear": "2016",
+            "description": "Completed 123 credits towards a BSc in Computer Engineering"
+        }
+    ],
+    "languages":[
+        {
+            "language": "Portuguese",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Fluent",
+            "certification": [{
+                "name": "Cambridge Advanced English",
+                "level": "C2"
+            }]
+        }
+    ],
+    "professionalExperience": [
+        {
+            "title": "Full Stack Developer",
+            "company": "Lambda3",
+            "location": "São Paulo",
+            "startDate": "Feb 2020",
+            "endDate": "",
+            "responsabilities": "",
+            "skills": ""
+        },
+        {
+            "title": "R&D Engineer Intern",
+            "company": "LAPRAS/USP",
+            "location": "São Carlos",
+            "startDate": "Mar 2019",
+            "endDate": "Dec 2019",
+            "responsabilities": "",
+            "skills": ""
+        },
+        {
+            "title": "Full Stack Developer Intern",
+            "company": "The Business Therapist Brasil",
+            "location": "São Carlos",
+            "startDate": "May 2017",
+            "endDate": "Mar 2019",
+            "responsabilities": "",
+            "skills": ""
+        },
+        {
+            "title": "Undergraduate Researcher",
+            "company": "São Carlos School of Engineering - USP",
+            "location": "São Carlos",
+            "startDate": "Aug 2016",
+            "endDate": "Sep 2017",
+            "responsabilities": "",
+            "skills": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "Ruby on Rails",
+            "level": "Advanced" 
+        },
+        {
+            "name": "JavaScript",
+            "level": "Advanced" 
+        },
+        {
+            "name": "React.js",
+            "level": "Advanced" 
+        },
+        {
+            "name": "Python",
+            "level": "Advanced" 
+        },
+        {
+            "name": "C/C++",
+            "level": "Intermediary - Advanced" 
+        },
+        {
+            "name": "C#",
+            "level": "Beginner" 
+        },
+        {
+            "name": "Arduino",
+            "level": "Intermediary" 
+        },
+        {
+            "name": "AWS",
+            "services": ["IoT Core", "S3", "DynamoDB", "EC2"],
+            "level": "Intermediary - Advanced"
+        },
+        {
+            "name": "Azure",
+            "services": ["DevOps"],
+            "level": "Beginner" 
+        },
+        {
+            "name": "Parallel Programming",
+            "level": "Intermediary" 
+        },
+        {
+            "name": "Data Mining",
+            "level": "Intermediary" 
+        },
+        {
+            "name": "NLP",
+            "level": "Intermediary" 
+        }
+    ],
+    "hackathons": [
+        {
+            "name": "SheHacks",
+            "date": "Sep 2019",
+            "outcome": "Winner"
+        }
+    ],
+    "conference&Summits": [
+        {
+            "name": "XConf 2019",
+            "date": "Aug 2019"
+        },
+        {
+            "name": "Woman Dev Summit 2020",
+            "date": "Mar 2020"
+        }
+    ],
+    "meetups": [
+        {
+            "name": "React - High5Devs",
+            "date": "March 5, 2020"
+        }
+    ]
+}
