@@ -109,7 +109,7 @@
         },
         {
             "name": "Azure",
-            "services": ["DevOps"],
+            "services": ["DevOps", "API app"],
             "level": "Beginner" 
         },
         {
@@ -132,19 +132,20 @@
             "outcome": "Winner"
         }
     ],
-    "conference&Summits": [
+    "events": [
         {
             "name": "XConf 2019",
+            "type": "conference",
             "date": "Aug 2019"
         },
         {
             "name": "Woman Dev Summit 2020",
+            "type": "summit",
             "date": "Mar 2020"
-        }
-    ],
-    "meetups": [
+        },
         {
             "name": "React - High5Devs",
+            "type": "meetup",
             "date": "March 5, 2020"
         }
     ]
